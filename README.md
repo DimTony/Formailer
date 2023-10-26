@@ -2,6 +2,11 @@
 
 This is a Node.js application that utilizes Express and Nodemailer to send emails through a contact form. It provides a basic web interface where users can enter their name, email, and a message, and the application sends the message as an email to a specified recipient.
 
+- [Formailer](#formailer)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [License](#license)
+
 # Getting Started
 This project is running live on Github Pages and can be accessed via this live [link](https://dimtony.github.io/formailer/)
 
