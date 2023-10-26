@@ -14,7 +14,7 @@ This project is running live on Github Pages and can be accessed via this live [
 - Visit the link above on your browser to display a contact form.
 - FIll out the form with 
   1. Name - Your name or the person initiating the contact.
-  2. Email - Your email or the email of the person iniating the contact.
+  2. Email - Your email or the email of the person initiating the contact.
   3. Message - A message you wish to deliver to the recipient.
   4. Email Service Provider - The email service where your sender's email is hosted (e.g. Gmail, Yahoo, AOL).
   5. Sender's Email Address - Your email. This should be a valid email hosted on the email service provided above.
